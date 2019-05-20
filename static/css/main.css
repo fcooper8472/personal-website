@@ -104,7 +104,7 @@ blockquote {
 .nav {
   max-width: 800px;
   margin: 0 auto;
-  padding: 0 15px;
+  padding: 0 0 0 15px;
   font-family: 'Roboto', sans-serif;
 }
 
@@ -136,9 +136,9 @@ blockquote {
   vertical-align: middle;
   margin: 0;
   padding: 0;
-  min-width: 74%;
-  max-width: 74%;
-  line-height: 40pt;
+  min-width: 70%;
+  max-width: 70%;
+  line-height: 32pt;
   font-size: 18px;
   list-style: none;
   text-align: right;
