@@ -1,0 +1,40 @@
+baseurl = "https://www.cs.ox.ac.uk/people/fergus.cooper/site/"
+languageCode = "en-gb"
+title = "Fergus Cooper"
+paginate = 10
+pygmentsUseClasses = true
+pygmentsCodefences = true
+googleAnalytics = "UA-48149829-6"
+enableGitInfo = true
+disableKinds = ["section", "taxonomyTerm", "RSS"]
+
+[permalinks]
+    blog = "/:slug/"
+    page = "/:slug/"
+
+[[menu.main]]
+    name = "Publications"
+    url = "/publications/"
+    weight = -150
+
+[[menu.main]]
+    name = "Software"
+    url = "/software/"
+    weight = -140
+
+[[menu.main]]
+    name = "Teaching"
+    url = "/teaching/"
+    weight = -130
+
+[[menu.main]]
+    name = "Blog"
+    url = "/blog/"
+    weight = -120
+
+[params]
+    description = ""
+
+    [params.logo]
+    url = "fergus-cooper.jpg"
+    alt = "Fergus Cooper - personal photo"
