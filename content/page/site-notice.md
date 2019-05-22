@@ -10,7 +10,4 @@ This website uses [Hugo](https://gohugo.io/) static website generator ({{% hugo-
 
 ### Copyright
 
-This website uses:
-
-- the [Roboto](https://fonts.google.com/specimen/Roboto) typeface (Apache 2.0 licence)
-- elements of the [Natrium theme](https://github.com/mobybit/hugo-natrium-theme) (MIT licence)
+This website uses elements of the [Natrium theme](https://github.com/mobybit/hugo-natrium-theme) (MIT licence).
