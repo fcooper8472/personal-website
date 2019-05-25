@@ -4,7 +4,7 @@ title = "Fergus Cooper"
 paginate = 10
 pygmentsUseClasses = true
 pygmentsCodefences = true
-googleAnalytics = "UA-48149829-6"
+googleAnalytics = "UA-140848718-1"
 enableGitInfo = true
 disableKinds = ["section", "taxonomyTerm", "RSS"]
 
