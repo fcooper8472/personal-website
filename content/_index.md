@@ -17,10 +17,10 @@ Through the development of computational modelling tools I have become intereste
 
 As well as my role as a research software engineer, I am a leading maintainer and developer on the [Chaste project](http://www.cs.ox.ac.uk/chaste/), and I contribute to a number of other open source projects including [Trase](https://github.com/trase-cpp/trase) and [PINTS](https://www.cs.ox.ac.uk/projects/PINTS/), and have a particular interest in the C++ programming language.
 
-## Get in touch with me
+## Get in touch
 
 I would love to hear from you about research software engineering, any of the research or projects I'm involved in, or about anything C++!  You can:
 
-- Send me an email [email](mailto:fergus.cooper@cs.ox.ac.uk)
+- Send me an [email](mailto:fergus.cooper@cs.ox.ac.uk)
 - Check out my [GitHub](https://github.com/fcooper8472/)
 - Follow me on [Twitter](https://twitter.com/FergusCooper/)
