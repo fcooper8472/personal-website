@@ -12,7 +12,7 @@ draft: false
 
 ## Other publications
 
-1. **Fergus R. Cooper** | DPhil Thesis, University of Oxford | **A mathematical and computational framework for modelling epithelial cell morphodynamics** | 2018 | (pdf coming soon)
+1. **Fergus R. Cooper** | DPhil Thesis, University of Oxford | **A mathematical and computational framework for modelling epithelial cell morphodynamics** | 2018 | ([pdf](2018Cooper_DPhilThesis.pdf) | [ora](https://ora.ox.ac.uk/objects/uuid:1d8c7a1f-931e-464a-8a4b-1eea41f69906))
 
 1. **Fergus R. Cooper** | MMath Thesis, University of Warwick | **Non-Markovian network epidemics** | 2013 | ([pdf](2013Cooper_MMathThesis_NonMarkovian.pdf))
 
