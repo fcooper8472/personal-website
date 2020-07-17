@@ -22,4 +22,4 @@ draft: false
 
 ## Conference slides
 
-1. **Fergus R. Cooper** | C++ On Sea 2020  | **C++20: All the small things** | 2020 | ([pdf](2020CppOnSeaSlides.pdf) | [YouTube](https://www.youtube.com/watch?v=qr9laiJfU4E))
+1. **Fergus R. Cooper** | C++ On Sea 2020  | **C++20: All the small things** | 2020 | ([pdf](2020CppOnSeaSlides.pdf) | YouTube coming soon)
