@@ -19,3 +19,7 @@ draft: false
 1. **Fergus R. Cooper** | MMath Thesis, University of Warwick | **Non-Markovian network epidemics** | 2013 | ([pdf](2013Cooper_MMathThesis_NonMarkovian.pdf) | [doi](https://doi.org/10.5281/zenodo.3250895))
 
 1. **Fergus R. Cooper** | Second year undergraduate essay, University of Warwick | **Introduction to fractals and Julia sets** | 2011 | ([pdf](2011Cooper_IntroductionToFractals.pdf))
+
+## Conference slides
+
+1. **Fergus R. Cooper** | C++ On Sea 2020  | **C++20: All the small things** | 2020 | ([pdf](2020CppOnSeaSlides.pdf) | [YouTube](https://www.youtube.com/watch?v=qr9laiJfU4E))
