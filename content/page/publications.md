@@ -6,6 +6,8 @@ draft: false
 
 ## Journal articles
 
+1. Juba Nait Saada, Georgios Kalantzis, Derek Shyr, **Fergus R. Cooper**, Martin Robinson, Alexander Gusev, Pier Francesco Palamara | **Identity-by-descent detection across 487,409 British samples reveals fine scale population structure and ultra-rare variant associations** | [*Nat. Commun.*](https://www.nature.com/ncomms/) | 2020 | ([pdf](2020Saada_IBD.pdf) | [doi](https://doi.org/10.1038/s41467-020-19588-x))
+
 1. **Fergus R. Cooper** et al | **Chaste: Cancer, Heart and Soft Tissue Environment** | [*J. Open Source Softw.*](https://joss.theoj.org/) | 2020 | ([pdf](2020Cooper_ChasteJOSS.pdf) | [doi](https://doi.org/10.21105/joss.01848))
 
 1. **Fergus R. Cooper**, Ruth E. Baker, Alexander G. Fletcher | **Numerical analysis of the immersed boundary method for cell-based simulation** | [*SIAM J. Sci. Comput.*](https://www.siam.org/Publications/Journals/SIAM-Journal-on-Scientific-Computing-SISC) | 2017 | ([pdf](2017Cooper_ImmersedBoundary.pdf) | [doi](https://doi.org/10.1137/16M1092246))
